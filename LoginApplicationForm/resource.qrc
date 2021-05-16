@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>new/New Text Document.txt</file>
+    </qresource>
+</RCC>
